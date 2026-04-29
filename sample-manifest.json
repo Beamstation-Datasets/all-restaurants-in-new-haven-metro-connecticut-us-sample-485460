@@ -1,12 +1,12 @@
 {
-  "export_job_id": "588c608e-3d41-4854-a7f4-21e18434c20b",
+  "export_job_id": "ad047b0d-71ec-4556-a11b-146b91864ebb",
   "id_short": 485460,
-  "published_at": "2026-04-21T19:28:05Z",
+  "published_at": "2026-04-29T07:05:22Z",
   "repo_name": "all-restaurants-in-new-haven-metro-connecticut-us-sample-485460",
   "sample_asset_name": "beamstation_485460_restaurants-us-newhavenct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/485460/beamstation_485460_restaurants-us-newhavenct_SAMPLE_DIST.csv",
-  "sample_records": 136,
-  "sample_sha256": "d15c42765e4b6074c68b5de2ff78c386960b20a1c2ed08233704c8cb37c3b7cf",
-  "sample_size_bytes": 495397,
-  "total_records": 1363
+  "sample_records": 166,
+  "sample_sha256": "32ff546a0bab51810121ef2f96b2b2127516adfed52b6bc67b0c076cc5c0e182",
+  "sample_size_bytes": 542541,
+  "total_records": 1662
 }
